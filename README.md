@@ -1,7 +1,10 @@
 # TugasWeb-P11-EcommerceAuth
 
 **Tugas Rutin 11 — E-Commerce DB + Secure Auth (Laravel)**
-Nama: Dzikry Ramadhany · NIM: 4251250008 · Universitas Negeri Medan (FMIPA) · Mata kuliah: Pemrograman Web
+Nama: Dzikry Ramadhany 
+· NIM: 4251250008 
+· Universitas Negeri Medan (FMIPA) 
+· Mata kuliah: Pemrograman Web
 
 ## Fitur
 **Bagian A — Database & Eloquent**
